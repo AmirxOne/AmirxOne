@@ -25,6 +25,9 @@ Developer & Collegian
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
+<a href="https://www.graphql.com/" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/graphql_playground_macos_bigsur_icon_190105.png" alt="git" width="50" height="50"/></a>
+</p>
                     
 ### Socials
                   
