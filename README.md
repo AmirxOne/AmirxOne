@@ -39,3 +39,13 @@ Developer & Collegian
 <a href="https://github.com/AmirxOne" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/amir-hossein-saharkhiz-323a90238/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
+
+
+
+### GitHub Stats
+
+<div align="left">
+ <img src="https://github-readme-stats.vercel.app/api?username=AmirxOne&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmirxOne&theme=tokyonight" />
+ <img src="https://github-profile-trophy.vercel.app/?username=AmirxOne&theme=tokyonight" />
+</div>
