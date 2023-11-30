@@ -29,7 +29,7 @@ Developer & Collegian
   <a href="https://mui.com/" rel="noreferrer">
     <img src="https://mui.com/static/logo.png" alt="git" width="40" height="40"/></a>
   <a href="https://nextjs.org/" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="git" width="auto" height="40"/></a>
+    <img src="https://gitlab.com/uploads/-/system/project/avatar/18080731/nextjs.png" alt="git" width="auto" height="40"/></a>
 </p>
 
 
