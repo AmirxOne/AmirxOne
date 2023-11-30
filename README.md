@@ -28,6 +28,8 @@ Developer & Collegian
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/graphql_playground_macos_bigsur_icon_190105.png" alt="git" width="40" height="40"/></a>
   <a href="https://mui.com/" rel="noreferrer">
     <img src="https://mui.com/static/logo.png" alt="git" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="git" width="40" height="40"/></a>
 </p>
 
 
