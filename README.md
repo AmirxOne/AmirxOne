@@ -31,7 +31,8 @@ from interactive e-learning platforms to enterprise SaaS dashboards.
 ▸ Real-time systems: long-polling ticketing, voice messaging
 ▸ AI-powered UX: speech-to-text with synchronized playback
 
-Now:  Front-End Developer @ Khodnevis (monitor.srem.ir)
+Now:  Front-End Developer @ Resaa (resaa.net) — building for Hamrahe Aval (MCI)
+Prev: Khodnevis dashboards · Kargosha marketplace · Zibazi e-learning
 Edu:  B.Sc. Biomedical Engineering — Azad University, Tehran (since 2019)
 ```
 
@@ -67,8 +68,13 @@ Edu:  B.Sc. Biomedical Engineering — Azad University, Tehran (since 2019)
 
 ## 💼 Experience
 
+### 🚀 [Resaa](https://resaa.net) — رِسا (Rasaalat-e Salamat-e Iranian)
+`2026 (June) → Present` · Front-End Developer
+
+- Building digital products for **Hamrahe Aval (MCI)** — Iran's largest mobile operator — at Resaa (Rasaalat-e Salamat-e Iranian), MCI's technology partner
+
 ### 🚀 [Khodnevis](https://monitor.srem.ir) — Monitoring Dashboard
-`2025 → Present` · Front-End Developer
+`2025 → June 2026` · Front-End Developer
 
 - Developed **data-driven dashboards** with dynamic, interactive charts
 - Implemented **enterprise-scale RBAC** (role-based access control)
