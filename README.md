@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=640&lines=Front-End+Engineer;React+%2F+Next.js+Specialist;4%2B+Years+Shipping+Production+Software" alt="Typing SVG" />
 
-# Amirhossein Saharkhiz
-
 **Senior Front-End Engineer · React & Next.js**
 
 🇮🇷 Tehran, Iran &nbsp;·&nbsp; 📧 [sahar.khiz.1379@gmail.com](mailto:sahar.khiz.1379@gmail.com)
