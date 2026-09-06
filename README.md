@@ -8,7 +8,7 @@
 
 🇮🇷 Tehran, Iran &nbsp;·&nbsp; 📧 [sahar.khiz.1379@gmail.com](mailto:sahar.khiz.1379@gmail.com)
 
-<a href="https://github.com/AmirxOne"><img src="https://img.shields.io/badge/GitHub-AmirxOne-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/GitHub-AmirxOne-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 &nbsp;
 <a href="https://www.linkedin.com/in/amir-hossein-saharkhiz-323a90238/"><img src="https://img.shields.io/badge/LinkedIn-Amirhossein_Saharkhiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
@@ -128,6 +128,6 @@ Edu:  B.Sc. Biomedical Engineering — Azad University, Tehran (since 2019)
 
 **🤝 Open to collaborating on interesting projects as a front-end developer**
 
-⭐️ From [AmirxOne](https://github.com/AmirxOne)
+⭐️ From AmirxOne
 
 </div>
