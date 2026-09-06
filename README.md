@@ -69,7 +69,7 @@ Edu:  B.Sc. Biomedical Engineering — Azad University, Tehran (since 2019)
 ### 🚀 [Resaa](https://resaa.net) — رِسا (Rasaalat-e Salamat-e Iranian)
 `2026 (June) → Present` · Front-End Developer
 
-- Building digital products for <a href="https://mci.ir"><img src="https://img.shields.io/badge/Now_building_for-Hamrahe_Aval_MCI-FBBF24?style=flat-square&labelColor=1c1917" alt="Hamrahe Aval (MCI)" /></a> — Iran's largest mobile operator — at Resaa (Rasaalat-e Salamat-e Iranian), MCI's technology partner
+- Building digital products for <a href="https://mci.ir"><img src="https://latex.codecogs.com/svg.image?%5Ccolor%5BRGB%5D%7B251%2C191%2C36%7D%5C;%5Ctextsf%7BHamrahe%20Aval%20(MCI)%7D" alt="Hamrahe Aval (MCI)" valign="middle" /></a> — Iran's largest mobile operator — at Resaa (Rasaalat-e Salamat-e Iranian), MCI's technology partner
 
 ### 🚀 [Khodnevis](https://monitor.srem.ir) — Monitoring Dashboard
 `2025 → June 2026` · Front-End Developer
