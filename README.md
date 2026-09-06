@@ -98,14 +98,29 @@ Edu:  B.Sc. Biomedical Engineering — Azad University, Tehran (since 2019)
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmirxOne&theme=tokyonight" width="100%" alt="Profile Details" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmirxOne/AmirxOne/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmirxOne/AmirxOne/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AmirxOne/AmirxOne/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</picture>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AmirxOne&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)](https://git.io/streak-stats)
+
 </div>
+
+<details>
+<summary><b>📊 More stats</b></summary>
+<br/>
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmirxOne&theme=tokyonight" height="160" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmirxOne&theme=tokyonight" height="160" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmirxOne&theme=tokyonight" height="160" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmirxOne&theme=tokyonight" height="160" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmirxOne&theme=tokyonight" height="150" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmirxOne&theme=tokyonight" height="150" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmirxOne&theme=tokyonight" height="150" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmirxOne&theme=tokyonight" height="150" alt="Productive Time" />
 </div>
+
+</details>
 
 ---
 
