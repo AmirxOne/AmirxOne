@@ -6,8 +6,6 @@
 
 📧 [sahar.khiz.1379@gmail.com](mailto:sahar.khiz.1379@gmail.com)
 
-<img src="https://img.shields.io/badge/GitHub-AmirxOne-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-&nbsp;
 <a href="https://www.linkedin.com/in/amir-hossein-saharkhiz-323a90238/"><img src="https://img.shields.io/badge/LinkedIn-Amirhossein_Saharkhiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
 <a href="mailto:sahar.khiz.1379@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
