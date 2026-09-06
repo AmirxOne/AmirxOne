@@ -66,7 +66,7 @@ Edu:  B.Sc. Biomedical Engineering — Azad University, Tehran (since 2019)
 
 ## 💼 Experience
 
-### 🚀 [Resaa](https://resaa.net) — رِسا (Rasaalat-e Salamat-e Iranian)
+### 🚀 [Resaa](https://resaa.net) — Rasaalat-e Salamat-e Iranian
 `2026 (June) → Present` · Front-End Developer
 
 - Building digital products for <a href="https://mci.ir"><img src="https://latex.codecogs.com/svg.image?%5Ccolor%5BRGB%5D%7B251%2C191%2C36%7D%5C;%5Ctextsf%7BHamrahe%20Aval%20(MCI)%7D" alt="Hamrahe Aval (MCI)" valign="middle" /></a> — Iran's largest mobile operator — at Resaa (Rasaalat-e Salamat-e Iranian), MCI's technology partner
