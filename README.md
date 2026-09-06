@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=640&lines=Front-End+Engineer;React+%2F+Next.js+Specialist;4%2B+Years+Shipping+Production+Software" alt="Typing SVG" />
 
-# Amir Hossein Saharkhiz
+# Amirhossein Saharkhiz
 
 **Senior Front-End Engineer · React & Next.js**
 
@@ -71,7 +71,7 @@ Edu:  B.Sc. Biomedical Engineering — Azad University, Tehran (since 2019)
 ### 🚀 [Resaa](https://resaa.net) — رِسا (Rasaalat-e Salamat-e Iranian)
 `2026 (June) → Present` · Front-End Developer
 
-- Building digital products for **Hamrahe Aval (MCI)** — Iran's largest mobile operator — at Resaa (Rasaalat-e Salamat-e Iranian), MCI's technology partner
+- Building digital products for <a href="https://mci.ir"><img src="https://img.shields.io/badge/Now_building_for-Hamrahe_Aval_MCI-FBBF24?style=flat-square&labelColor=1c1917" alt="Hamrahe Aval (MCI)" /></a> — Iran's largest mobile operator — at Resaa (Rasaalat-e Salamat-e Iranian), MCI's technology partner
 
 ### 🚀 [Khodnevis](https://monitor.srem.ir) — Monitoring Dashboard
 `2025 → June 2026` · Front-End Developer
