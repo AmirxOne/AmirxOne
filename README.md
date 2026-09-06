@@ -1,52 +1,112 @@
-My name is Amir Hossein Saharkhiz
-===============================
+<div align="center">
 
-Developer & Collegian
------------------------------
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=640&lines=Front-End+Engineer;React+%2F+Next.js+Specialist;4%2B+Years+Shipping+Production+Software" alt="Typing SVG" />
 
-*   🖥️  See my portfolio at [AmirxOne.com](https://github.com/AmirxOne)
-<!-- *   🚀  I'm currently working on [Holosen](https://holosen.net) -->
-*   🤝  I'm open to collaborating on interesting projects as a web developer
+# Amir Hossein Saharkhiz
 
-<a href="https://www.github.com/AmirxOne" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/AmirxOne?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-                  
-### Skills
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://res.cloudinary.com/arcjet-media/image/upload/c_scale,w_256/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg" width="36" height="36" alt="Tailwindcss" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.stackshare.io/service/2699/KoK6gHzp.jpg" width="36" height="36" alt="Reactjs" /></a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.graphql.com/" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/graphql_playground_macos_bigsur_icon_190105.png" alt="git" width="40" height="40"/></a>
-  <a href="https://mui.com/" rel="noreferrer">
-    <img src="https://mui.com/static/logo.png" alt="git" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="next js logo" width="40" height="40"/></a>
-</p>
+**Senior Front-End Engineer · React & Next.js**
 
+🇮🇷 Tehran, Iran &nbsp;·&nbsp; 📧 [sahar.khiz.1379@gmail.com](mailto:sahar.khiz.1379@gmail.com)
 
-                    
-### Socials
-                  
-<p align="left">
-    <a href="https://www.instagram.com/ahs.1379.ahs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/amir-hossein-saharkhiz-323a90238/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
+<a href="https://github.com/AmirxOne"><img src="https://img.shields.io/badge/GitHub-AmirxOne-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/amir-hossein-saharkhiz-323a90238/"><img src="https://img.shields.io/badge/LinkedIn-Amirhossein_Saharkhiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:sahar.khiz.1379@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
+</div>
 
+---
 
-### GitHub Stats
+## 👨‍💻 About Me
 
-<div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=AmirxOne&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmirxOne&theme=tokyonight" />
- <img src="https://github-profile-trophy.vercel.app/?username=AmirxOne&theme=tokyonight" />
+```text
+Front-end engineer with 4+ years shipping production software —
+from interactive e-learning platforms to enterprise SaaS dashboards.
+
+▸ Architecting scalable Next.js apps (SSR / ISR / App Router)
+▸ Pixel-perfect, accessible UI with a strong UX sensibility
+▸ Design systems · advanced data-grids · rich text editors
+▸ Web app security (OWASP) & performance tuning
+▸ Real-time systems: long-polling ticketing, voice messaging
+▸ AI-powered UX: speech-to-text with synchronized playback
+
+Now:  Front-End Developer @ Khodnevis (monitor.srem.ir)
+Edu:  B.Sc. Biomedical Engineering — Azad University, Tehran (since 2019)
+```
+
+## 🛠 Tech Stack
+
+**Core**
+
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+<a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+<a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>
+<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+<a href="https://sass-lang.com"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" /></a>
+<a href="https://reactnative.dev"><img src="https://skillicons.dev/icons?i=react" alt="React Native" /></a>
+
+**Backend & Ops**
+
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+<a href="https://graphql.org"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></a>
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+<a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
+<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+
+**Tools & Workflow**
+
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+<a href="https://bitbucket.org"><img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" /></a>
+<a href="https://www.atlassian.com/software/jira"><img src="https://skillicons.dev/icons?i=jira" alt="Jira" /></a>
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+
+## 💼 Experience
+
+### 🚀 [Khodnevis](https://monitor.srem.ir) — Monitoring Dashboard
+`2025 → Present` · Front-End Developer
+
+- Developed **data-driven dashboards** with dynamic, interactive charts
+- Implemented **enterprise-scale RBAC** (role-based access control)
+- Built **AI-powered features** — speech-to-text with synchronized text playback
+- Designed a **scalable rich text editor** (Microsoft Word–class) from scratch
+
+### 🛒 [Kargosha](https://kargosha.com) — Multi-Vendor Marketplace
+`2023 → 2025` · Front-End Developer
+
+- Built & maintained a **multi-part Next.js platform** — User / Expert / Shop / Admin panels
+- Implemented an **environment-based architecture** (dev / preview / production), simplifying DevOps workflows
+- Created a **messenger-style ticketing system** with long-polling, voice messaging & file uploads
+
+### 🎮 [Zibazi](https://student.zibazi.tv) — Interactive E-Learning Platform
+`2022 → 2023` · Front-End Developer
+
+- Developed an **interactive gaming platform** with React & Redux
+- Built a **custom interactive video controller** — the character pauses the video, asks questions, users answer to earn points
+- Created an **admin application** for generating JSON configurations, seamlessly integrated with the gaming platform
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmirxOne&theme=tokyonight" width="100%" alt="Profile Details" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmirxOne&theme=tokyonight" height="160" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmirxOne&theme=tokyonight" height="160" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmirxOne&theme=tokyonight" height="160" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmirxOne&theme=tokyonight" height="160" alt="Productive Time" />
+</div>
+
+---
+
+<div align="center">
+
+**🤝 Open to collaborating on interesting projects as a front-end developer**
+
+⭐️ From [AmirxOne](https://github.com/AmirxOne)
+
 </div>
