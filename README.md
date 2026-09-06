@@ -4,7 +4,7 @@
 
 **Senior Front-End Engineer · React & Next.js**
 
-🇮🇷 Tehran, Iran &nbsp;·&nbsp; 📧 [sahar.khiz.1379@gmail.com](mailto:sahar.khiz.1379@gmail.com)
+📧 [sahar.khiz.1379@gmail.com](mailto:sahar.khiz.1379@gmail.com)
 
 <img src="https://img.shields.io/badge/GitHub-AmirxOne-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 &nbsp;
@@ -31,7 +31,7 @@ from interactive e-learning platforms to enterprise SaaS dashboards.
 
 Now:  Front-End Developer @ Resaa (resaa.net) — building for Hamrahe Aval (MCI)
 Prev: Khodnevis dashboards · Kargosha marketplace · Zibazi e-learning
-Edu:  B.Sc. Biomedical Engineering — Azad University, Tehran (since 2019)
+Edu:  B.Sc. Biomedical Engineering — Azad University (since 2019)
 ```
 
 ## 🛠 Tech Stack
