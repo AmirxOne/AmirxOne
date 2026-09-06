@@ -62,7 +62,7 @@ Edu:  B.Sc. Biomedical Engineering — Azad University, Tehran (since 2019)
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
 <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 <a href="https://bitbucket.org"><img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" /></a>
-<a href="https://www.atlassian.com/software/jira"><img src="https://skillicons.dev/icons?i=jira" alt="Jira" /></a>
+<a href="https://www.atlassian.com/software/jira"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" width="48" height="48" /></a>
 <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
 
 ## 💼 Experience
